@@ -1,6 +1,7 @@
-<h1>Hi, I'm Astrid Frank! <br/><a href="https://github.com/Frankonarun">Programmer</a>, "Software Tester"</a>, 
+<h1>Hi, I'm Astrid Frank! <br/><a href="https://github.com/Frankonarun"> "Programmer"</a>, "Software Tester"</a>, 
 
-<h2>👨‍💻 PROGRAMMERING PROJECTS</h2>
+<h2>👨‍💻 PROGRAMMERING PROJECTS</h2> 
+
 - <b> Java:</b>
 
 - <b> Python:</b>
@@ -10,6 +11,7 @@
 - <b> CSS:</b>
 
 <h2>👨‍💻 SOFTWARE TESTER</h2>
+
 - <b> Test Automation:</b>
 
 - <b> API Testing:</b>
