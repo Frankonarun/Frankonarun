@@ -2,25 +2,11 @@
 
 <h2>👨‍💻 PROGRAMMERING PROJECTS</h2> 
 
-- <b> Java:</b>
-
 - <b> Python:</b>
-
-- <b> HTML:</b>
-
-- <b> CSS:</b>
 
 <h2>👨‍💻 SOFTWARE TESTER</h2>
 
 - <b> Test Automation:</b>
-
-- <b> API Testing:</b>
-
-- <b> Test Automation:</b>
-
-- <b> UI Automation:</b>
-
-- <b> Database Testing:</b>
 
 
 <h2> 🤳 Connect with me:</h2>
